@@ -640,5 +640,5 @@ vizualize_classification(y_test, y_pred)
 print('Finished training in : ', datetime.now()-start_all)
 ```
 
-    Finished training in :  0:23:04.225445
+    Finished in :  0:23:04.225445
 
